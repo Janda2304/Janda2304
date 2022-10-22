@@ -1,9 +1,7 @@
-Hello I'm a 15 year old High school student interested in game development and robotics.
+Hello I'm a 15 year old IT student currently studying at a czech high school called "sspš"
 
-I'm currently learning with c# and c/c++
+I'm interested in game development, robotics and 3d printing (in general all modern technologies)
 
-Currently a student at a czech high school called "sspš"
+I know C# and C/C++ but i'm mainly using C# for all of my coding work
 
-My main project is a 2D roguelike/roguelite game called Romardia Tales which is currently in super early phases of development
-
-My secondary project is a simple text game to repeat some basics of C#
+Currently my main project is a 2D roguelike/roguelite game called Romardia Tales which is currently in super early phases of development
