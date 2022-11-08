@@ -5,3 +5,4 @@ I'm interested in game development, robotics and 3d printing (in general all mod
 I know C# and C/C++ but i'm mainly using C# for all of my coding work
 
 Currently my main project is a 2D roguelike/roguelite game called Romardia Tales which is currently in super early phases of development
+I'm also working on a minecraft modpack called Lost in Ages
