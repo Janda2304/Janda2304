@@ -11,5 +11,4 @@ I know C, C++, C# and ZenScript but i'm mainly using C# for all of my coding wor
 ### My Projects
 Currently my main project is a minecraft modpack called Lost in Ages and a C# console game simply called textRPG
 
-I'm also working a 2D Unity roguelike/roguelite game called Romardia Tales 
-
+I'm also working a 2D Unity roguelike/roguelite game called Romardia Tales and slowly learning with Unity 3D
