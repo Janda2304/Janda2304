@@ -2,9 +2,9 @@
 
 15 year old Computer Science student currently studying at a czech high school called "sspš"
 
-interested in game development, robotics and 3d printing (in general all modern technologies)
+interested in game development, robotics and 3d printing 
 
-I know C, C++, C# and ZenScript, mainly using C#
+I know C, C++ and C#, mainly using C#
 
 
 
