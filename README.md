@@ -6,6 +6,8 @@ interested in game development, robotics and 3d printing
 
 I know C, C++ and C#, mainly using C#
 
+looking for funny collabs 
+
 
 
 
