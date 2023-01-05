@@ -1,12 +1,15 @@
 ### Something about me  
 
-15 year old Computer Science student currently studying at a czech high school called "sspš"
+:wave: hi i'm Ondrej
+
+Computer Science student 
 
 interested in game development, robotics and 3d printing 
 
-I know C, C++ and C#, mainly using C#
+mainly using C# and Unity3D
 
 looking for funny collabs 
+
 
 
 
