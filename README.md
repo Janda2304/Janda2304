@@ -2,7 +2,7 @@
 
 - #### :wave: hi i'm Ondrej
 - #### 🖥️Computer Science student
-- #### 🎮interested in game development 
+- #### 🎮aspiring indie game developer
 - #### 📖currently learning C# and Unity3D
 
 
