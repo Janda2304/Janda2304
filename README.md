@@ -1,9 +1,8 @@
-### Something about me  
+<h1 align="center"> :wave: hi i'm Ondrej </h1>
 
-- #### :wave: hi i'm Ondrej
-- #### 🖥️Computer Science student
-- #### 🎮aspiring indie game developer
-- #### 📖currently learning C# & Unity
+- ### 🖥️Computer Science student
+- ### 🎮aspiring indie game developer
+- ### 📖currently learning: C# & Unity & Tailwind CSS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
