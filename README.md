@@ -1,7 +1,9 @@
 <h1 align="center"> :wave: hi i'm Ondrej </h1>
 
 - ### 🖥️Computer Science student
-- ### 🎮aspiring indie game developer
+- ### 🖊️Teacher
+- ### 🎉JetBrains Enjoyer
+- ### 🎮indie game developer
 - ### 📖currently learning: C# & C++ & Unity & Tailwind CSS
   <br>
 <div>
